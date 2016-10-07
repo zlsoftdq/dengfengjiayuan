@@ -6,6 +6,6 @@ First,clone the repo via git:
 
 $ git clone https://github.com/zlsoftdq/dengfengjiayuan.git
 
-Second,send mail to developer@zlsoftdq.cn,get unzip password;
+Second,send mail to developer@zlsoftdq.cn ,get unzip password;
 
 Congratulations！
